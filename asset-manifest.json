@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StrengthForce/static/css/main.2f9451e3.css",
+    "main.js": "/StrengthForce/static/js/main.b0f6043b.js",
+    "static/js/453.feff639f.chunk.js": "/StrengthForce/static/js/453.feff639f.chunk.js",
+    "static/media/hero-bg.webp": "/StrengthForce/static/media/hero-bg.0b1fb9093df4a508d6d8.webp",
+    "static/media/logo.png": "/StrengthForce/static/media/logo.9d7e36396648f15f53ab.png",
+    "index.html": "/StrengthForce/index.html",
+    "main.2f9451e3.css.map": "/StrengthForce/static/css/main.2f9451e3.css.map",
+    "main.b0f6043b.js.map": "/StrengthForce/static/js/main.b0f6043b.js.map",
+    "453.feff639f.chunk.js.map": "/StrengthForce/static/js/453.feff639f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9451e3.css",
+    "static/js/main.b0f6043b.js"
+  ]
+}
