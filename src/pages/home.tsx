@@ -51,7 +51,7 @@ const Home = () => {
                             Welcome to StrengthForge
                         </h1>
                         <p className="text-white">
-                            Your one stop shop for all things fitness
+                            Your one stop shop for all your fitness needs. 
                         </p>
                     </div>
             </section>
